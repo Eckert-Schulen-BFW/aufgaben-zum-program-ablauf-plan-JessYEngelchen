@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\KochJessica\OneDrive - Unternehmensgruppe Eckert\Dokumente\Visual Studio 2022\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
 </Project>
